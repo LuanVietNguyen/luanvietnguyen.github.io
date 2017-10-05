@@ -36,29 +36,31 @@ Luan Nguyen's CV can be found [LuanNguyen-CV.pdf here].
 - B.E., Electrical Engineering, [http://eecs.cua.edu/ The Catholic University of America], May 2012
 
 == Publication
+- *Journal Articles:*
+-- [[J4]] Luan Viet Nguyen, Khaza Anuarul Hoque, Stanley Bak, Steven Drager, and Taylor T. Johnson, "Cyber-Physical Specification Mismatches," under major review for ACM Transactions on Cyber-Physical Systems (TCPS), June 2017
+-- [[J3]] Stanley Bak, Omar Ali Beg, Sergiy Bogomolov, Taylor T. Johnson, Luan Viet Nguyen, and Christian Schilling, "Hybrid Automata: from Verification to Implementation." International Journal on Software Tools for Technology Transfer (2017) Springer, vol., pp. 1-18, August 2017
+-- [[J2]] Hoang Dung Tran, Luan Viet Nguyen, Weiming Xiang, and Taylor T. Johnson, "An Automatic Order-Reduction Abstraction for Safety Verification of Periodically Switched Systems," Springer Discrete Event Dynamic Systems, Special Issue on Formal Methods in Control, February 2017
+-- [[J1]] Luan Viet Nguyen, Hoang-Dung Tran, and Taylor T. Johnson, "Virtual Prototyping for Distributed Control of a Fault-Tolerant Modular Multilevel Inverter for Photovoltaics," in IEEE Transactions on Energy Conversion, vol. 29, pp. 841-850, December 2014
+	
+	
+- *Conference Proceeding Paper:*
+-- [[C4]] Luan Viet Nguyen, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, and Taylor T. Johnson, "Hyperproperties of Real-Valued Signals," 15th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2017), Vienna, October 2017 (To Appear)
+-- [[C3]] Luan Viet Nguyen, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, Ken Butts, and Taylor T. Johnson, "Abnormal Data Classification Using Time-Frequency Temporal Logic," 20th ACM International Conference on Hybrid Systems: Computation and Control 2017 (HSCC 2017), Pittsburgh, PA, April 2017
+-- [[C2]] Parasara Sridhar Duggirala, Chuchu Fan, Matthew Potok, Bolun Qi, Sayan Mitra, Mahesh Viswanathan, Stanley Bak, Sergiy Bogomolov, Taylor T. Johnson, Luan Viet Nguyen, Christian Schilling, Andrew Sogokon, Hoang-Dung Tran, and Weiming Xiang, "Tutorial: Software Tools for Hybrid Systems Verification, Transformation, and Synthesis: C2E2, HyST, and TuLiP", In Proceedings of the IEEE Multi-Conference on Systems and Controls (MSC 2016), Las Vegas, NV, USA, 2016, September
+-- [[C1]] Luan Viet Nguyen, Christian Schilling, Sergiy Bogomolov, and Taylor T. Johnson, "Runtime Verification for Hybrid Analysis Tools," in 15th International Conference on Runtime Verification (RV 2015), Vienna, Austria, September 2015
+	
+	
+- *Workshop Proceeding Papers:*
+-- [[W6]] Hoang-Dung Tran, Luan Viet Nguyen, Weiming Xiang and Taylor T. Johnson, "Distributed Autonomous Systems (Benchmark Proposal)," in 4th International Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2017), Pittsburgh, PA, April 2017
+-- [[W5]] Hoang-Dung Tran, Luan Viet Nguyen, and Taylor T. Johnson, "Large-Scale Linear Systems from Order-Reduction (Benchmark Proposal)," in 3rd International Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2016), Vienna, Austria, April 2016
+-- [[W4]] Luan Viet Nguyen, Djordje Maksimovic, Taylor T. Johnson, and Andreas Veneris, "Quantified Bounded Model Checking for Rectangular Hybrid Automata," in 9th International Workshop on Constraints in Formal Verification (CFV 2015), Austin, TX, November 2015
+-- [[W3]] Hoang-Dung Tran, Luan Viet Nguyen, and Taylor T. Johnson, "Benchmark: A Nonlinear Reachability Analysis Test Set from Numerical Analysis," in 2nd International Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2015), CPSWeek 2015, Seattle, WA, April 2015
+-- [[W2]] Luan Viet Nguyen and Taylor T. Johnson, "Benchmark: DC-to-DC Switched-Mode Power Converters (Buck Converters, Boost Converters, and Buck-Boost Converters)," in 1st International Workshop on Applied Verification for Continuous and Hybrid Systems Workshop (ARCH 2014), Berlin, Germany, April 2014
+-- [[W1]] Luan Viet Nguyen, Eric Nelson, Amol Vengurlekar, Ruoshi Zhang, Kristopher I White, Victor Salinas, and Taylor T. Johnson, "Model-Based Design and Analysis of a Reconfigurable Continuous-Culture Bioreactor (Work-in-Progress)," in 4th ACM Workshop on Design, Modeling, and Evaluation of Cyber Physical Systems (Cyphy 2014), Berlin, Germany, April 2014
 
-	Journal Articles\n
-	[[J4]]	Luan Viet Nguyen, Khaza Anuarul Hoque, Stanley Bak, Steven Drager, and Taylor T. Johnson, "Cyber-Physical Specification Mismatches," under major review for ACM Transactions on Cyber-Physical Systems (TCPS), June 2017.\n
-	[J3]	Stanley Bak, Omar Ali Beg, Sergiy Bogomolov, Taylor T. Johnson, Luan Viet Nguyen, and Christian Schilling, "Hybrid Automata: from Verification to Implementation." International Journal on Software Tools for Technology Transfer (2017) Springer, vol., pp. 1-18, August 2017.\n
-	[J2]	Hoang Dung Tran, Luan Viet Nguyen, Weiming Xiang, and Taylor T. Johnson, "An Automatic Order-Reduction Abstraction for Safety Verification of Periodically Switched Systems," Springer Discrete Event Dynamic Systems, Special Issue on Formal Methods in Control, February 2017.\n
-	[J1]	Luan Viet Nguyen, Hoang-Dung Tran, and Taylor T. Johnson, "Virtual Prototyping for Distributed Control of a Fault-Tolerant Modular Multilevel Inverter for Photovoltaics," in IEEE Transactions on Energy Conversion, vol. 29, pp. 841-850, December 2014.\n\n
-
-	Conference Proceeding Papers\n
-	[C4]	Luan Viet Nguyen, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, and Taylor T. Johnson, "Hyperproperties of Real-Valued Signals," 15th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2017), Vienna, October 2017. (To Appear)\n
-	[C3]	Luan Viet Nguyen, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, Ken Butts, and Taylor T. Johnson, "Abnormal Data Classification Using Time-Frequency Temporal Logic," 20th ACM International Conference on Hybrid Systems: Computation and Control 2017 (HSCC 2017), Pittsburgh, PA, April 2017.\n
-	[C2]	Parasara Sridhar Duggirala, Chuchu Fan, Matthew Potok, Bolun Qi, Sayan Mitra, Mahesh Viswanathan, Stanley Bak, Sergiy Bogomolov, Taylor T. Johnson, Luan Viet Nguyen, Christian Schilling, Andrew Sogokon, Hoang-Dung Tran, and Weiming Xiang, "Tutorial: Software Tools for Hybrid Systems Verification, Transformation, and Synthesis: C2E2, HyST, and TuLiP", In Proceedings of the IEEE Multi-Conference on Systems and Controls (MSC 2016), Las Vegas, NV, USA, 2016, September.\n\n
-	[C1]	Luan Viet Nguyen, Christian Schilling, Sergiy Bogomolov, and Taylor T. Johnson, "Runtime Verification for Hybrid Analysis Tools," in 15th International Conference on Runtime Verification (RV 2015), Vienna, Austria, September 2015.\n
-
-	Workshop Proceeding Papers\n
-	[W6]	Hoang-Dung Tran, Luan Viet Nguyen, Weiming Xiang and Taylor T. Johnson, "Distributed Autonomous Systems (Benchmark Proposal)," in 4th International Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2017), Pittsburgh, PA, April 2017.\n
-	[W5]	Hoang-Dung Tran, Luan Viet Nguyen, and Taylor T. Johnson, "Large-Scale Linear Systems from Order-Reduction (Benchmark Proposal)," in 3rd International Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2016), Vienna, Austria, April 2016.\n
-	[W4]	Luan Viet Nguyen, Djordje Maksimovic, Taylor T. Johnson, and Andreas Veneris, "Quantified Bounded Model Checking for Rectangular Hybrid Automata," in 9th International Workshop on Constraints in Formal Verification (CFV 2015), Austin, TX, November 2015.\n
-	[W3]	Hoang-Dung Tran, Luan Viet Nguyen, and Taylor T. Johnson, "Benchmark: A Nonlinear Reachability Analysis Test Set from Numerical Analysis," in 2nd International Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2015), CPSWeek 2015, Seattle, WA, April 2015. \n
-	[W2]	Luan Viet Nguyen and Taylor T. Johnson, "Benchmark: DC-to-DC Switched-Mode Power Converters (Buck Converters, Boost Converters, and Buck-Boost Converters)," in 1st International Workshop on Applied Verification for Continuous and Hybrid Systems Workshop (ARCH 2014), Berlin, Germany, April 2014.\n
-	[W1]	Luan Viet Nguyen, Eric Nelson, Amol Vengurlekar, Ruoshi Zhang, Kristopher I White, Victor Salinas, and Taylor T. Johnson, "Model-Based Design and Analysis of a Reconfigurable Continuous-Culture Bioreactor (Work-in-Progress)," in 4th ACM Workshop on Design, Modeling, and Evaluation of Cyber Physical Systems (Cyphy 2014), Berlin, Germany, April 2014.\n\n
-
-	Posters\n
-	[P4]	Luan Viet Nguyen, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, and Taylor T. Johnson, "Hyperproperties of Real-Valued Signals" Hybrid Systems Computation and Control 2017 (HSCC 2017), Pittsburgh, PA, April 2017\n
-	[P3]	Luan Viet Nguyen, and Taylor T. Johnson, "Towards Bounded Model Checking for Timed and Hybrid Automata with a Quantified Encoding," in PhD Student Forum, 15th International Conference on Formal Methods in Computer-Aided Design (FMCAD), Austin, TX, September 2015.\n
-	[P2]	Luan Viet Nguyen, Christian Schilling, Sergiy Bogomolov, and Taylor T. Johnson, "HyRG: A Random Generation Tool for Affine Hybrid Automata," in 18th International Conference on Hybrid Systems: Computation and Control (HSCC 2015), CPSWeek 2015, Seattle, WA, April 2015.\n
-	[P1]	Luan Viet Nguyen, and Taylor T. Johnson, "Model-Based Design and Analysis of a Continuous Culture Bioreactor for Systems Biology Experiments," Texas Systems Day, Texas A&M University, College Station, TX, March 2014.
+	
+- *Posters:*
+-- [[P4]] Luan Viet Nguyen, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, and Taylor T. Johnson, "Hyperproperties of Real-Valued Signals" Hybrid Systems Computation and Control 2017 (HSCC 2017), Pittsburgh, PA, April 2017
+-- [[P3]] Luan Viet Nguyen, and Taylor T. Johnson, "Towards Bounded Model Checking for Timed and Hybrid Automata with a Quantified Encoding," in PhD Student Forum, 15th International Conference on Formal Methods in Computer-Aided Design (FMCAD), Austin, TX, September 2015
+-- [[P2]] Luan Viet Nguyen, Christian Schilling, Sergiy Bogomolov, and Taylor T. Johnson, "HyRG: A Random Generation Tool for Affine Hybrid Automata," in 18th International Conference on Hybrid Systems: Computation and Control (HSCC 2015), CPSWeek 2015, Seattle, WA, April 2015
+-- [[P1]] Luan Viet Nguyen, and Taylor T. Johnson, "Model-Based Design and Analysis of a Continuous Culture Bioreactor for Systems Biology Experiments," Texas Systems Day, Texas A&M University, College Station, TX, March 2014
