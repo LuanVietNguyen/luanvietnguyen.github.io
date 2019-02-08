@@ -1,15 +1,15 @@
-# jemdoc: menu{MENU}{index.html}, title({Luan Nguyen's homepage}, nodefaultcss, addcss{luan.css}, analytics{UA-77683282-1}
-= Welcome to Luan Nguyen's Homepage
+# jemdoc: menu{MENU}{index.html}, title({Luan V. Nguyen's homepage}, nodefaultcss, addcss{luan.css}, analytics{UA-77683282-1}
+= Welcome to Luan V. Nguyen's Homepage
 
 ~~~
 {}{img_left}{luan_new_image_small.png}{Luan Nguyen}
-*Luan Nguyen*, Ph.D.\n
+*Luan V. Nguyen*, Ph.D.\n
 [http://www.cis.upenn.edu/index.php Department of Computer and Information Science]\n
 [https://www.upenn.edu/ University of Pennsyvalnia]\n
 Email: luanvn at seas dot upenn dot edu
 ~~~
 
-Luan Nguyen is currently a posdoctoral research associate at [https://precise.seas.upenn.edu/ Precise Center, University of Pennsyvalnia], working under the supervision of Prof. [http://www.cis.upenn.edu/~alur/ Rajeev Alur] . 
+Luan V. Nguyen is currently a posdoctoral research associate at [https://precise.seas.upenn.edu/ Precise Center, University of Pennsyvalnia], working under the supervision of Prof. [http://www.cis.upenn.edu/~alur/ Rajeev Alur] . 
 He graduated with honors from M.Sc. program in December 2012 at the [https://www.catholic.edu/index.html Catholic University of America], where he had previously earned his B.E. in May 2012. 
 He was a member at the [http://www.verivital.com/ Verification and Validation for Intelligent and Trustworthy Autonomy Laboratory] at the [https://www.uta.edu/uta/ University of Texas at Arlington], under the supervision of [http://www.taylortjohnson.com/ Prof. Taylor T. Johnson]. 
 His major research areas include cyber-physical system, hybrid system, formal method, temporal logic, and control theory.
@@ -18,8 +18,8 @@ Particularly, he is interested in research related system testing and reachabili
 
 # Luan Nguyen's CV can be found [LuanNguyen-CV.pdf here].  
 
-== What's new
-- Welcome to my homepage!
+#== What's new
+#- Welcome to my homepage!
 
 == Research Interest
 - Cyber-physical Systems
