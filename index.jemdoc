@@ -13,7 +13,7 @@ Luan V. Nguyen is currently a posdoctoral research associate at [https://precise
 He graduated with honors from M.Sc. program in December 2012 at [https://www.catholic.edu/index.html The Catholic University of America], where he had previously earned his B.E. in May 2012. 
 He was a member at the [http://www.verivital.com/ Verification and Validation for Intelligent and Trustworthy Autonomy Laboratory] at [https://www.uta.edu/uta/ The University of Texas at Arlington], under the supervision of [http://www.taylortjohnson.com/ Prof. Taylor T. Johnson]. 
 His major research areas include cyber-physical systems, hybrid systems, formal method, temporal logic, and model-based design.
-Particularly, he is interested in research related system testing, reachability analysis, and specification mining. Furthermore, he has been involved in the development of highly cited, state-of-the-art tools in this area. 
+Particularly, he is interested in research related simulation-based testing, reachability analysis, specification mining and model-based repair of cyber-physical systems for improving safety and resilency. Furthermore, he has been involved in the development of highly cited, state-of-the-art tools in this area. 
 
 
 # Luan Nguyen's CV can be found [LuanNguyen-CV.pdf here].  
@@ -22,11 +22,13 @@ Particularly, he is interested in research related system testing, reachability 
 #- Feb 2019: Submmited a new paper about the model-based repair of hybrid systems for imporving resiliency to CAV, check out the preprint at [https://github.com/LuanVietNguyen/reaffirm arxiv] 
 
 == Research Interest
-- Cyber-physical Systems
-- Formal Verification and Testing
-- Model-based Repair for Improving Resiliency
+- Autonomous Cyber-Physical Systems: Formal Verification, Testing, and Specification Mining
+- Model-based Repair for Improving Resiliency of Hybrid Systems 
+- Safe Artificial Intelligent Systems
 - Logic Driven Data Science
-- Hybrid and Distributed Systems
+
+
+
 
 == Education
 - Ph.D., Computer Engineering, [http://www.uta.edu The University of Texas at Arlington],
