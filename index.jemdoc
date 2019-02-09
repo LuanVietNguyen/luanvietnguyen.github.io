@@ -9,7 +9,7 @@
 Email: luanvn at seas dot upenn dot edu
 ~~~
 
-Luan V. Nguyen is currently a posdoctoral research associate at [https://precise.seas.upenn.edu/ Precise Center, University of Pennsyvalnia], working under the supervision of Prof. [http://www.cis.upenn.edu/~alur/ Rajeev Alur] . 
+Luan V. Nguyen is currently a posdoctoral research associate at [https://precise.seas.upenn.edu/ PRECISE Center, University of Pennsyvalnia], working under the supervision of Prof. [http://www.cis.upenn.edu/~alur/ Rajeev Alur] . 
 He graduated with honors from M.Sc. program in December 2012 at [https://www.catholic.edu/index.html The Catholic University of America], where he had previously earned his B.E. in May 2012. 
 He was a member at the [http://www.verivital.com/ Verification and Validation for Intelligent and Trustworthy Autonomy Laboratory] at [https://www.uta.edu/uta/ The University of Texas at Arlington], under the supervision of [http://www.taylortjohnson.com/ Prof. Taylor T. Johnson]. 
 His major research areas include cyber-physical systems, hybrid systems, formal method, temporal logic, and model-based design.
@@ -19,7 +19,7 @@ Particularly, he is interested in research related system testing, reachability 
 # Luan Nguyen's CV can be found [LuanNguyen-CV.pdf here].  
 
 #== What's new
-#- Welcome to my homepage!
+#- Feb 2019: Submmited a new paper about the model-based repair of hybrid systems for imporving resiliency to CAV, check out the preprint at [https://github.com/LuanVietNguyen/reaffirm arxiv] 
 
 == Research Interest
 - Cyber-physical Systems
@@ -35,11 +35,6 @@ Particularly, he is interested in research related system testing, reachability 
   December 2012
 - B.E., Electrical Engineering, [http://eecs.cua.edu/ The Catholic University of America], May 2012
 
-== Teaching
-Teaching assistant at the [http://www.uta.edu/ University of Texas at Arlington] for:
-- Operating Systems (CSE3320), Fall 2017 
-- Object-oriented Programming (CSE1325), Spring 2014, Summer 2014, Fall 2014, and Spring 2015
-
 == Tools
 - [https://github.com/LuanVietNguyen/reaffirm REAFFIRM]: Model-Based Repair of Hybrid Systems for Improving Resiliency (main developer)
 - [http://www.verivital.com/hyrg HyRG]: A Random Generation Tool for Affine Hybrid Automata (main developer)
@@ -51,12 +46,12 @@ Teaching assistant at the [http://www.uta.edu/ University of Texas at Arlington]
 -- J5. *Luan Viet Nguyen*, Khaza Anuarul Hoque, Stanley Bak, Steven Drager, and Taylor T. Johnson, "Cyber-Physical Specification Mismatches," ACM Transactions on Cyber-Physical Systems (TCPS), January 2018 ([http://www.taylortjohnson.com/research/nguyen2018tcps.pdf link])
 -- J4. Omar Beg, *Luan Viet Nguyen*, Taylor T. Johnson and Ali Davoudi, "Signal Temporal Logic-based Attack Detection in DC Microgrids," IEEE Transactions on Smart Grid, 2017 ([https://ieeexplore.ieee.org/document/8353490 link])
 -- J3. Stanley Bak, Omar Beg, Sergiy Bogomolov, Taylor T. Johnson, *Luan Viet Nguyen*, and Christian Schilling, "Hybrid Automata: from Verification to Implementation," International Journal on Software Tools for Technology Transfer (2017) Springer, vol., pp. 1-18, August 2017 ([http://www.taylortjohnson.com/research/bak2017sttt.pdf link])
--- J2. Hoang Dung Tran, *Luan Viet Nguyen*, Weiming Xiang, and Taylor T. Johnson, "Order-reduction abstractions for safety verification of high-dimensional linear systems," Springer Discrete Event Dynamic Systems, Special Issue on Formal Methods in Control, February 2017 ([https://link.springer.com/elink/10.1007/s10626-017-0244-y?author_access_token=FB5lrB9WeWj5FN1qMTDEF_e4RwlQNchNByi7wbcMAY74kYhrlc8351uZv8_FYUEb13BAAwYmM525f7r554B4CphEQM_0p1ixrXBMKq2c-FNKsKoQszU_h5tySx9NsZ5FOjF0nCgElQFKp3TbtuVNNQ== link])
+-- J2. Hoang Dung Tran, *Luan Viet Nguyen*, Weiming Xiang, and Taylor T. Johnson, "Order-reduction abstractions for safety verification of high-dimensional linear systems," Springer Discrete Event Dynamic Systems, Special Issue on Formal Methods in Control, February 2017 ([https://link.springer.com/article/10.1007/s10626-017-0244-y link])
 -- J1. *Luan Viet Nguyen*, Hoang-Dung Tran, and Taylor T. Johnson, "Virtual Prototyping for Distributed Control of a Fault-Tolerant Modular Multilevel Inverter for Photovoltaics," in IEEE Transactions on Energy Conversion, vol. 29, pp. 841-850, December 2014 ([http://www.taylortjohnson.com/research/nguyen2014tec.pdf link])
 	
 	
 - *Conference Proceeding Papers:*
--- C6. *Luan Viet Nguyen*, Bardh Hoxha, Georgios Fainekos and Taylor T. Johnson, "Mission Planning for Multiple Unmanned Vehicles using UxAS," in IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 2018), Oxford, July 2018.  ([http://www.taylortjohnson.com/research/nguyen2017memocode.pdf link])
+-- C6. *Luan Viet Nguyen*, Bardh Hoxha, Georgios Fainekos and Taylor T. Johnson, "Mission Planning for Multiple Unmanned Vehicles using UxAS," in IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 2018), Oxford, July 2018.  ([http://www.taylortjohnson.com/research/nguyen2018adhs.pdf link])
 -- C5. *Luan Viet Nguyen*, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, and Taylor T. Johnson, "Hyperproperties of Real-Valued Signals," 15th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2017), Vienna, October 2017 ([http://www.taylortjohnson.com/research/nguyen2017memocode.pdf link])
 -- C4. *Luan Viet Nguyen*, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, Ken Butts, and Taylor T. Johnson, "Abnormal Data Classification Using Time-Frequency Temporal Logic," 20th ACM International Conference on Hybrid Systems: Computation and Control 2017 (HSCC 2017), Pittsburgh, PA, April 2017 ([https://dl.acm.org/citation.cfm?id=3049809 link])
 -- C3. Parasara Sridhar Duggirala, Chuchu Fan, Matthew Potok, Bolun Qi, Sayan Mitra, Mahesh Viswanathan, Stanley Bak, Sergiy Bogomolov, Taylor T. Johnson, *Luan Viet Nguyen*, Christian Schilling, Andrew Sogokon, Hoang-Dung Tran, and Weiming Xiang, "Tutorial: Software Tools for Hybrid Systems Verification, Transformation, and Synthesis: C2E2, HyST, and TuLiP", In Proceedings of the IEEE Multi-Conference on Systems and Controls (MSC 2016), Las Vegas, NV, USA, 2016, September ([http://www.taylortjohnson.com/research/duggirala2016msc.pdf link])
@@ -80,7 +75,12 @@ Teaching assistant at the [http://www.uta.edu/ University of Texas at Arlington]
 -- P1. *Luan Viet Nguyen*, and Taylor T. Johnson, "Model-Based Design and Analysis of a Continuous Culture Bioreactor for Systems Biology Experiments," Texas Systems Day, Texas A&M University, College Station, TX, March 2014
 
 - *Patents:*
--- Jyotirmoy Deshmuk, James Kapinski, Xiaoqing Jin, and *Luan Viet Nguyen*, "Privacy-Aware Signal Monitoring Systems and Methods," Patent No. US 20180286143, April 2018 [http://www.freepatentsonline.com/y2018/0286143.html link] 
+-- Jyotirmoy Deshmuk, James Kapinski, Xiaoqing Jin, and *Luan Viet Nguyen*, "Privacy-Aware Signal Monitoring Systems and Methods," Patent No. US 20180286143, April 2018 ([http://www.freepatentsonline.com/y2018/0286143.html link]) 
+
+== Teaching
+Teaching assistant at the [http://www.uta.edu/ University of Texas at Arlington] for:
+- Operating Systems (CSE3320), Fall 2017 
+- Object-oriented Programming (CSE1325), Spring 2014, Summer 2014, Fall 2014, and Spring 2015
 
 == Award and Honors
 - Toyota Travel Award for paper presentation at 20th ACM International Conference on Hybrid Systems: Computation and Control 2017 (HSCC 2017), Pittsburgh, PA, April 2017.
