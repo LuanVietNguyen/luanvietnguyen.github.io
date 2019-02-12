@@ -5,13 +5,13 @@
 {}{img_left}{luan_new_image_small.png}{Luan Nguyen}
 *Luan V. Nguyen*, Ph.D.\n
 [http://www.cis.upenn.edu/index.php Department of Computer and Information Science]\n
-[https://www.upenn.edu/ University of Pennsyvalnia]\n
+[https://www.upenn.edu/ The University of Pennsyvalnia]\n
 Email: luanvn at seas dot upenn dot edu
 ~~~
 
-Luan V. Nguyen is currently a postdoctoral research associate at [https://precise.seas.upenn.edu/ PRECISE Center, University of Pennsyvalnia], working under the supervision of Prof. [http://www.cis.upenn.edu/~alur/ Rajeev Alur] . 
+Luan V. Nguyen is currently a postdoctoral research associate at the [https://precise.seas.upenn.edu/ PRECISE Center], [https://www.upenn.edu/ University of Pennsyvalnia], working under the supervision of Prof. [http://www.cis.upenn.edu/~alur/ Rajeev Alur] . 
 He graduated with honors from M.Sc. program in December 2012 at [https://www.catholic.edu/index.html The Catholic University of America], where he had previously earned his B.E. in May 2012. 
-During his Ph.D., he was a member of the [http://www.verivital.com/ Verification and Validation for Intelligent and Trustworthy Autonomy Laboratory] at [https://www.uta.edu/uta/ The University of Texas at Arlington], under the supervision of [http://www.taylortjohnson.com/ Prof. Taylor T. Johnson]. 
+During his Ph.D., he was a member of the [http://www.verivital.com/ Verivital Lab] at [https://www.uta.edu/uta/ The University of Texas at Arlington], under the supervision of [http://www.taylortjohnson.com/ Prof. Taylor T. Johnson]. 
 His major research areas include cyber-physical systems, hybrid systems, formal method, temporal logic, and model-based design.
 Particularly, he is interested in research related simulation-based testing, reachability analysis, specification mining and model-based repair of cyber-physical systems for improving safety and resiliency. Furthermore, he has been involved in the development of highly cited, state-of-the-art tools in this area. 
 
@@ -22,11 +22,11 @@ Particularly, he is interested in research related simulation-based testing, rea
 #- Feb 2019: Submmited a new paper about the model-based repair of hybrid systems for imporving resiliency to CAV, check out the preprint at [https://github.com/LuanVietNguyen/reaffirm arxiv] 
 
 == Research Interest
-- Autonomous Cyber-Physical Systems: Formal Verification, Testing, and Specification Mining
+- Cyber-Physical Systems: Formal Verification, Testing, and Specification Mining
 - Model-based Repair for Improving Resiliency of Hybrid Systems 
 - Safe Artificial Intelligent Systems
 - Logic Driven Data Science
-- Software Engineering
+- Software Engineerings
 
 
 
@@ -81,7 +81,7 @@ Particularly, he is interested in research related simulation-based testing, rea
 
 == Teaching
 Teaching assistant at the [http://www.uta.edu/ University of Texas at Arlington] for:
-- Operating Systems (CSE3320), Fall 2017 
+- Operating Systems (CSE3320), Fall 2017 and Spring 2018
 - Object-oriented Programming (CSE1325), Spring 2014, Summer 2014, Fall 2014, and Spring 2015
 
 == Award and Honors
