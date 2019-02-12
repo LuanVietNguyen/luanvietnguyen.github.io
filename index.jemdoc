@@ -19,7 +19,7 @@ Particularly, he is interested in research related simulation-based testing, rea
 # Luan Nguyen's CV can be found [LuanNguyen-CV.pdf here].  
 
 #== What's new
-#- Feb 2019: Submmited a new paper about the model-based repair of hybrid systems for imporving resiliency to CAV, check out the preprint at [https://github.com/LuanVietNguyen/reaffirm arxiv] 
+#- Feb 2019: Submmited a new paper about the model-based repair of hybrid systems for imporving resiliency to CAVxiv] 
 
 == Research Interest
 - Cyber-Physical Systems: Formal Verification, Testing, and Specification Mining
@@ -54,6 +54,7 @@ Particularly, he is interested in research related simulation-based testing, rea
 	
 	
 - *Conference Proceeding Papers:*
+-- C7. *Luan Viet Nguyen*, , Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, and Rajeev Alur, "REAFFIRM: Model-Based Repair of Hybrid Systems for Improving Resiliency", Feb, 2019 ([reaffirm-arxiv.pdf arxiv]) 
 -- C6. *Luan Viet Nguyen*, Bardh Hoxha, Georgios Fainekos and Taylor T. Johnson, "Mission Planning for Multiple Unmanned Vehicles using UxAS," in IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 2018), Oxford, July 2018.  ([http://www.taylortjohnson.com/research/nguyen2018adhs.pdf link])
 -- C5. *Luan Viet Nguyen*, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, and Taylor T. Johnson, "Hyperproperties of Real-Valued Signals," 15th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2017), Vienna, October 2017 ([http://www.taylortjohnson.com/research/nguyen2017memocode.pdf link])
 -- C4. *Luan Viet Nguyen*, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, Ken Butts, and Taylor T. Johnson, "Abnormal Data Classification Using Time-Frequency Temporal Logic," 20th ACM International Conference on Hybrid Systems: Computation and Control 2017 (HSCC 2017), Pittsburgh, PA, April 2017 ([https://dl.acm.org/citation.cfm?id=3049809 link])
