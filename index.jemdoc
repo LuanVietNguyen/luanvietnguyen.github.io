@@ -19,14 +19,15 @@ Particularly, he is interested in research related simulation-based testing, rea
 # Luan Nguyen's CV can be found [LuanNguyen-CV.pdf here].  
 
 #== What's new
-#- Feb 2019: Submmited a new paper about the model-based repair of hybrid systems for imporving resiliency to CAVxiv] 
+#- Feb 2019: Three papers submitted to CAV 2019 
+#- Jan 2019: A paper submitted to FORMALISE 2019 
 
 == Research Interest
 - Cyber-Physical Systems: Formal Verification, Testing, and Specification Mining
 - Model-based Repair for Improving Resiliency of Hybrid Systems 
 - Safe Artificial Intelligent Systems
 - Logic Driven Data Science
-- Software Engineerings
+- Software Engineering
 
 
 
@@ -54,7 +55,7 @@ Particularly, he is interested in research related simulation-based testing, rea
 	
 	
 - *Conference Proceeding Papers:*
--- C7. *Luan Viet Nguyen*, , Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, and Rajeev Alur, "REAFFIRM: Model-Based Repair of Hybrid Systems for Improving Resiliency", Feb, 2019 ([reaffirm-arxiv.pdf arxiv]) 
+-- C7. *Luan Viet Nguyen*, , Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, and Rajeev Alur, "REAFFIRM: Model-Based Repair of Hybrid Systems for Improving Resiliency", February, 2019 ([https://arxiv.org/abs/1902.04064 arxiv]) 
 -- C6. *Luan Viet Nguyen*, Bardh Hoxha, Georgios Fainekos and Taylor T. Johnson, "Mission Planning for Multiple Unmanned Vehicles using UxAS," in IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 2018), Oxford, July 2018.  ([http://www.taylortjohnson.com/research/nguyen2018adhs.pdf link])
 -- C5. *Luan Viet Nguyen*, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, and Taylor T. Johnson, "Hyperproperties of Real-Valued Signals," 15th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2017), Vienna, October 2017 ([http://www.taylortjohnson.com/research/nguyen2017memocode.pdf link])
 -- C4. *Luan Viet Nguyen*, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, Ken Butts, and Taylor T. Johnson, "Abnormal Data Classification Using Time-Frequency Temporal Logic," 20th ACM International Conference on Hybrid Systems: Computation and Control 2017 (HSCC 2017), Pittsburgh, PA, April 2017 ([https://dl.acm.org/citation.cfm?id=3049809 link])
@@ -82,7 +83,7 @@ Particularly, he is interested in research related simulation-based testing, rea
 -- Jyotirmoy Deshmuk, James Kapinski, Xiaoqing Jin, and *Luan Viet Nguyen*, "Privacy-Aware Signal Monitoring Systems and Methods," Patent No. US 20180286143, April 2018 ([http://www.freepatentsonline.com/y2018/0286143.html link]) 
 
 == Teaching
-Teaching assistant at the [http://www.uta.edu/ University of Texas at Arlington] for:
+Teaching assistant at [http://www.uta.edu/ The University of Texas at Arlington] for:
 - Operating Systems (CSE3320), Fall 2017 and Spring 2018
 - Object-oriented Programming (CSE1325), Spring 2014, Summer 2014, Fall 2014, and Spring 2015
 
