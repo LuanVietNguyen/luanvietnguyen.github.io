@@ -18,9 +18,10 @@ Particularly, he is interested in research related simulation-based testing, rea
 
 # Luan Nguyen's CV can be found [LuanNguyen-CV.pdf here].  
 
-#== What's new
-#- Feb 2019: Three papers submitted to CAV 2019 
-#- Jan 2019: A paper submitted to FORMALISE 2019 
+== What's new
+- Feb 2019: Submitted a paper to FORTE 2019 
+- Feb 2019: Submitted three papers to CAV 2019 
+- Jan 2019: Submitted a paper to FORMALISE 2019 
 
 == Research Interest
 - Cyber-Physical Systems: Formal Verification, Testing, and Specification Mining
@@ -55,8 +56,9 @@ Particularly, he is interested in research related simulation-based testing, rea
 	
 	
 - *Conference Proceeding Papers:*
--- C7. *Luan Viet Nguyen*, , Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, and Rajeev Alur, "REAFFIRM: Model-Based Repair of Hybrid Systems for Improving Resiliency", February, 2019 ([https://arxiv.org/abs/1902.04064 arxiv]) 
--- C6. *Luan Viet Nguyen*, Bardh Hoxha, Georgios Fainekos and Taylor T. Johnson, "Mission Planning for Multiple Unmanned Vehicles using UxAS," in IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 2018), Oxford, July 2018.  ([http://www.taylortjohnson.com/research/nguyen2018adhs.pdf link])
+-- C8. *Luan Viet Nguyen*, Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, and Rajeev Alur, "REAFFIRM: Model-Based Repair of Hybrid Systems for Improving Resiliency", February, 2019 ([https://arxiv.org/abs/1902.04064 arxiv]) 
+-- C7. *Luan Viet Nguyen*, Bardh Hoxha, Georgios Fainekos and Taylor T. Johnson, "Mission Planning for Multiple Unmanned Vehicles using UxAS," in IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 2018), Oxford, July 2018.  ([http://www.taylortjohnson.com/research/nguyen2018adhs.pdf link])
+-- C6. Omar Beg, *Luan Viet Nguyen*, Taylor T. Johnson and Ali Davoudi, "Computer-Aided Formal Verification of Power Electronics Circuits," Frontiers in Analog CAD, Proceedings of, pp. 1-6. VDE, 2017 ([http://www.taylortjohnson.com/research/beg2017fac.pdf link])
 -- C5. *Luan Viet Nguyen*, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, and Taylor T. Johnson, "Hyperproperties of Real-Valued Signals," 15th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2017), Vienna, October 2017 ([http://www.taylortjohnson.com/research/nguyen2017memocode.pdf link])
 -- C4. *Luan Viet Nguyen*, James Kapinski, Xiaoqing Jin, Jyotirmoy Deshmukh, Ken Butts, and Taylor T. Johnson, "Abnormal Data Classification Using Time-Frequency Temporal Logic," 20th ACM International Conference on Hybrid Systems: Computation and Control 2017 (HSCC 2017), Pittsburgh, PA, April 2017 ([https://dl.acm.org/citation.cfm?id=3049809 link])
 -- C3. Parasara Sridhar Duggirala, Chuchu Fan, Matthew Potok, Bolun Qi, Sayan Mitra, Mahesh Viswanathan, Stanley Bak, Sergiy Bogomolov, Taylor T. Johnson, *Luan Viet Nguyen*, Christian Schilling, Andrew Sogokon, Hoang-Dung Tran, and Weiming Xiang, "Tutorial: Software Tools for Hybrid Systems Verification, Transformation, and Synthesis: C2E2, HyST, and TuLiP", In Proceedings of the IEEE Multi-Conference on Systems and Controls (MSC 2016), Las Vegas, NV, USA, 2016, September ([http://www.taylortjohnson.com/research/duggirala2016msc.pdf link])
@@ -65,7 +67,6 @@ Particularly, he is interested in research related simulation-based testing, rea
 	
 	
 - *Workshop Proceeding Papers:*
--- W7. Omar Beg, *Luan Viet Nguyen*, Taylor T. Johnson and Ali Davoudi, "Computer-Aided Formal Verification of Power Electronics Circuits," Frontiers in Analog CAD, Proceedings of, pp. 1-6. VDE, 2017 ([http://www.taylortjohnson.com/research/beg2017fac.pdf link])
 -- W6. Hoang-Dung Tran, *Luan Viet Nguyen*, Weiming Xiang and Taylor T. Johnson, "Distributed Autonomous Systems (Benchmark Proposal)," in 4th International Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2017), Pittsburgh, PA, April 2017 ([http://www.taylortjohnson.com/research/tran2017arch.pdf link])
 -- W5. Hoang-Dung Tran, *Luan Viet Nguyen*, and Taylor T. Johnson, "Large-Scale Linear Systems from Order-Reduction (Benchmark Proposal)," in 3rd International Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2016), Vienna, Austria, April 2016 ([http://www.taylortjohnson.com/research/tran2016arch.pdf link])
 -- W4. *Luan Viet Nguyen*, Djordje Maksimovic, Taylor T. Johnson, and Andreas Veneris, "Quantified Bounded Model Checking for Rectangular Hybrid Automata," in 9th International Workshop on Constraints in Formal Verification (CFV 2015), Austin, TX, November 2015 ([http://www.taylortjohnson.com/research/nguyen2015cfv.pdf link])
