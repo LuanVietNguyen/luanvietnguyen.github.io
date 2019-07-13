@@ -19,6 +19,7 @@ Particularly, he is interested in research related simulation-based testing, rea
 # Luan Nguyen's CV can be found [LuanNguyen-CV.pdf here].  
 
 == What's new
+- July 2019: Papers accepted at FM and FORMAT 2019
 - May 2019: Submitted a paper to ASE 2019
 - April 2019: Submitted two papers to FM 2019 
 - April 2019: Paper accepted at FORTE 2019 
@@ -59,7 +60,10 @@ Particularly, he is interested in research related simulation-based testing, rea
 	
 	
 - *Conference Proceeding Papers:*
--- C9. Hoang Dung Tran, Patrick Musau, Manxanas Lopez Diego, Xiao Dong Yang, *Luan Viet Nguyen*, Weiming Xiang, and Taylor T. Johnson, "Parallelizable Reachability Analysis Algorithms for Feed-Forward Neural Networks," in 7th International Conference on Formal Methods in Software Engineering (FORMALISE 2019), Montreal, May 2019. (To Appear) ([formalise2019.pdf Draft])
+-- C12. Hoang Dung Tran, Patrick Musau, Manxanas Lopez Diego, Xiao Dong Yang, *Luan Viet Nguyen*, Weiming Xiang, and Taylor T. Johnson, "Star-Based Reachability Analysis of Deep Neural Networks," in 23rd International Symposium on Formal Methods (FM 2019), Portugal, October 2019. (To Appear) 
+-- C11. Hoang Dung Tran, *Luan Viet Nguyen*, Weiming Xiang, and Taylor T. Johnson, "Reachability Analysis for High-Index Large Linear Differential Algebraic Equations," in 17th International Conference on Formal Modeling and Analysis of Timed Systems (FORMAT 2019), Amsterdam, Netherlands, August 2019. (To Appear) 
+-- C10. Hoang Dung Tran, *Luan Viet Nguyen*, Patrick Musau, Weiming Xiang, and Taylor T. Johnson, "Decentralized Real-Time Safety Verification for Distributed Cyber-Physical Systems," in 39th International Conference on Formal Techniques for Distributed Objects, Components, and Systems (FORTE 2019), Denmark, June 2019. ([http://www.taylortjohnson.com/research/tran2019forte.pdf link])
+-- C9. Hoang Dung Tran, Patrick Musau, Manxanas Lopez Diego, Xiao Dong Yang, *Luan Viet Nguyen*, Weiming Xiang, and Taylor T. Johnson, "Parallelizable Reachability Analysis Algorithms for Feed-Forward Neural Networks," in 7th International Conference on Formal Methods in Software Engineering (FORMALISE 2019), Montreal, May 2019. ([https://dl.acm.org/citation.cfm?id=3338820 link])
 -- C8. *Luan Viet Nguyen*, Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, and Rajeev Alur, "REAFFIRM: Model-Based Repair of Hybrid Systems for Improving Resiliency," February, 2019 ([https://arxiv.org/abs/1902.04064 arxiv]) 
 -- C7. *Luan Viet Nguyen*, Bardh Hoxha, Georgios Fainekos and Taylor T. Johnson, "Mission Planning for Multiple Unmanned Vehicles using UxAS," in IFAC Conference on Analysis and Design of Hybrid Systems (ADHS 2018), Oxford, July 2018.  ([http://www.taylortjohnson.com/research/nguyen2018adhs.pdf link])
 -- C6. Omar Beg, *Luan Viet Nguyen*, Taylor T. Johnson and Ali Davoudi, "Computer-Aided Formal Verification of Power Electronics Circuits," Frontiers in Analog CAD, Proceedings of, pp. 1-6. VDE, 2017 ([http://www.taylortjohnson.com/research/beg2017fac.pdf link])
