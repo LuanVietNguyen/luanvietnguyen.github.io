@@ -60,6 +60,7 @@ Particularly, he is interested in research related simulation-based testing, rea
 	
 	
 - *Conference Proceeding Papers:*
+-- C13. *Luan Viet Nguyen*, Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, and Rajeev Alur, “Detecting Security Leaks in Hybrid Systems with Information Flow Analysis,” in 19th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2019), San Diego, October 2019. (To Appear)
 -- C12. Hoang Dung Tran, Patrick Musau, Manxanas Lopez Diego, Xiao Dong Yang, *Luan Viet Nguyen*, Weiming Xiang, and Taylor T. Johnson, "Star-Based Reachability Analysis of Deep Neural Networks," in 23rd International Symposium on Formal Methods (FM 2019), Portugal, October 2019. (To Appear) 
 -- C11. Hoang Dung Tran, *Luan Viet Nguyen*, Weiming Xiang, and Taylor T. Johnson, "Reachability Analysis for High-Index Large Linear Differential Algebraic Equations," in 17th International Conference on Formal Modeling and Analysis of Timed Systems (FORMAT 2019), Amsterdam, Netherlands, August 2019. (To Appear) 
 -- C10. Hoang Dung Tran, *Luan Viet Nguyen*, Patrick Musau, Weiming Xiang, and Taylor T. Johnson, "Decentralized Real-Time Safety Verification for Distributed Cyber-Physical Systems," in 39th International Conference on Formal Techniques for Distributed Objects, Components, and Systems (FORTE 2019), Denmark, June 2019. ([http://www.taylortjohnson.com/research/tran2019forte.pdf link])
