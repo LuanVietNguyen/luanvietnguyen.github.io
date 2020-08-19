@@ -7,11 +7,13 @@
 Assistant Professor\n
 [https://udayton.edu/artssciences/academics/computerscience/index.php Department of Computer Science]\n
 [https://udayton.edu/ University of Dayton]\n
-Email: luanvnguyen dot vn at gmail dot com
+Office: Anderson 153, 300 College Park Ave, Dayton, OH 45469\n
+Phone: (937) 229 3831\n
+Email: lnguyen1(at)udayton(dot)com
 ~~~
 
 
-*Brief Bio*: I am currenly an Assistant Professor at the [https://udayton.edu/artssciences/academics/computerscience/index.php Department of Computer Science], [https://udayton.edu/ University of Dayton]. 
+*Brief Bio*: I am currently an Assistant Professor at the [https://udayton.edu/artssciences/academics/computerscience/index.php Department of Computer Science], [https://udayton.edu/ University of Dayton]. 
 Previously, I was a postdoctoral research associate at the [https://ee.nd.edu/ Department of Electrical Engineering], [https://www.nd.edu/ University of Notre Dame] (Oct 2019 - July 2020), and at the [https://precise.seas.upenn.edu/ PRECISE Center], [https://www.upenn.edu/ University of Pennsylvania] (June 2018 - Sep 2019). 
 I received my B.E. in May 2012 and M.Sc. degree in December 2012 at [https://www.catholic.edu/index.html The Catholic University of America].
 During my Ph.D., I was a member of the [http://www.verivital.com/ Verivital Lab] at [https://www.uta.edu/uta/ The University of Texas at Arlington], under the supervision of Prof. [http://www.taylortjohnson.com/ Taylor T. Johnson]. 
@@ -54,6 +56,14 @@ My research interest is to develop formal verification techniques and state-of-t
 - [https://github.com/verivital/nnv NNV]: A Matlab Toolbox For Neural Network Verification (contributor)
 - [https://bitbucket.org/verivital/hynger Hynger]: A Prototype toward Identifying Cyber-Physical Specification Mismatches (contributor)
 - [https://github.com/verivital/hyst HyST]: A Source Transformation and Translation Tool for Hybrid Automaton Models (contributor)
+
+== Teaching
+- Instructor at [https://udayton.edu/ University of Dayton] for:
+-- Cyber-Physical Systems and the Internet of Things (CPS 592), Fall 2020
+
+- Teaching assistant at [http://www.uta.edu/ The University of Texas at Arlington] for:
+-- Operating Systems (CSE3320), Fall 2017 and Spring 2018
+-- Object-oriented Programming (CSE1325), Spring 2014, Summer 2014, Fall 2014, and Spring 2015
 
 == Publications
 - *Journal Articles:*
@@ -99,10 +109,6 @@ My research interest is to develop formal verification techniques and state-of-t
 - *Patents:*
 -- Jyotirmoy Deshmuk, James Kapinski, Xiaoqing Jin, and *Luan Viet Nguyen*, "Privacy-Aware Signal Monitoring Systems and Methods," Patent No. US 20180286143, April 2018 ([http://www.freepatentsonline.com/y2018/0286143.html link]) 
 
-== Teaching
-Teaching assistant at [http://www.uta.edu/ The University of Texas at Arlington] for:
-- Operating Systems (CSE3320), Fall 2017 and Spring 2018
-- Object-oriented Programming (CSE1325), Spring 2014, Summer 2014, Fall 2014, and Spring 2015
 
 == Award and Honors
 - Best Paper Award for the paper "Detecting Security Leaks in Hybrid Systems with Information Flow Analysis," in 17th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2019),San Diego, October 2019.
