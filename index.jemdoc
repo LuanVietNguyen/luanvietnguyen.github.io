@@ -26,6 +26,7 @@ I am looking for self-motivated graduate and undergraduate students in the areas
 # Luan Nguyen's CV can be found [LuanNguyen-CV.pdf here].  
 
 == What's new
+- Mar 2023: Received [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245853&HistoricalAwards=false NSF CRII Grant] 
 - Feb 2023: Paper accepted at FORMALISE 2023 with Artifact Evaluation Badge, received UD Research Council Seed Grant and UD/UDRI Research Fellowship
 - Jan 2023: Paper accepted at IEEE Transactions on Control of Network Systems
 
@@ -56,13 +57,13 @@ I am looking for self-motivated graduate and undergraduate students in the areas
 
 == Teaching
 - Instructor at [https://udayton.edu/ University of Dayton] for:
--- Safety and Security in Autonomous Systems (CPS 573), Spring 2022, Fall 2022
--- Cyber-Physical Systems and the Internet of Things (CPS 592), Fall 2020, Spring 2021
--- Computer Organization and Architecture (CPS 250), Spring 2021, Fall 2021, Spring 2022, Fall 2022
+-- Safety and Security in Autonomous Systems (CPS 573), Spring 2022, 2023, and Fall 2022
+-- Cyber-Physical Systems and the Internet of Things (CPS 592), Fall 2020, and Spring 2021
+-- Computer Organization and Architecture (CPS 250), Spring 2021, 2022, 2023, and Fall 2021, 2022
 
 - Teaching assistant at [http://www.uta.edu/ The University of Texas at Arlington] for:
 -- Operating Systems (CSE3320), Fall 2017 and Spring 2018
--- Object-oriented Programming (CSE1325), Spring 2014, Summer 2014, Fall 2014, and Spring 2015
+-- Object-oriented Programming (CSE1325), Spring 2014, 2015, Summer 2014, and Fall 2014
 
 == Publications
 - *Journal Articles:*
@@ -79,6 +80,7 @@ I am looking for self-motivated graduate and undergraduate students in the areas
 	
 	
 - *Conference Proceeding Papers:*
+-- C16. Mykhailo Ivashchenko, Sung Woo Choi, *Luan Viet Nguyen*, and Hoang-Dung Tran, "Verifying Binary Neural Networks on Continuous Input Space using Star Reachability," in 11th International Conference on Formal Methods in Software Engineering (FORMALISE 2023), Melbourne, Victoria, Australia, May 2023 (To Apprear)
 -- C15. *Luan Viet Nguyen*, Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, and Rajeev Alur, "REAFFIRM: Model-Based Repair of Hybrid Systems for Improving Resiliency," in 18th  ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2020), Jaipur, India, December 2020  ([https://ieeexplore.ieee.org/document/9315153 link])
 -- C14. Hoang-Dung Tran, Xiaodong Yang, Diego Manzanas Lopez, Patrick Musau, *Luan Viet Nguyen*, Weiming Xiang, Stanley Bak, and Taylor T. Johnson,  "NNV: The Neural Network Verification Tool for Deep Neural Networks and Learning-Enabled Cyber-Physical Systems", in 32nd International Conference on Computer-Aided Verification (CAV), 2020, July ([http://www.taylortjohnson.com/research/tran2020cav_tool.pdf link])
 -- C13. *Luan Viet Nguyen*, Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, and Rajeev Alur, "Detecting Security Leaks in Hybrid Systems with Information Flow Analysis," in 17th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE 2019), San Diego, October 2019 (*Best Paper Award*) ([https://dl.acm.org/citation.cfm?id=3361212 link])
