@@ -72,6 +72,7 @@ I am looking for self-motivated graduate and undergraduate students in the areas
 
 == Publications
 - *Journal Articles:*
+-- J12. Sung Woo Cho, Mykhailo Ivashchenko, *Luan Viet Nguyen*, and Hoang-Dung Tran, "Reachability Analysis of Sigmoidal Neural Networks," ACM Transactions on Embedded Computing Systems, 2023 ([https://dl.acm.org/doi/abs/10.1145/3627991 link])
 -- J11. Ernest Bonnah, *Luan Viet Nguyen*, and Khaza Anuarul Hoque, "Model Checking Time Window Temporal Logic for Hyperproperties," IEEE Robotics and Automation Letters, 2023  ([https://ieeexplore.ieee.org/abstract/document/10137643 link]) 
 -- J10. *Luan Viet Nguyen*, Hoang-Dung Tran, Taylor T. Johnson, and Vijay Gupta, "Decentralized Safe Control for Distributed Cyber-Physical Systems using Real-time Reachability Analysis," IEEE Transactions on Control of Network Systems, 2023  ([https://ieeexplore.ieee.org/document/10025385 link]) 
 -- J9. Hoang Dung Tran, *Luan Viet Nguyen*, Patrick Musau, Weiming Xiang, and Taylor T. Johnson, "Real-Time Verification for Distributed Cyber-Physical Systems," Leibniz Transactions on Embedded Systems, Vol. 8 No. 2, Special Issue on Distributed Hybrid Systems, 2022 (invited paper) ([https://ojs.dagstuhl.de/index.php/lites/article/view/lites-v008-i002-a007 link])
